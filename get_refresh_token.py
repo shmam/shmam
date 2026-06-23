@@ -4,19 +4,19 @@ Helper script to obtain a Spotify refresh token via the Authorization Code flow.
 
 Usage:
   1. Create a Spotify app at https://developer.spotify.com/dashboard
-  2. Set the redirect URI to http://localhost:8888/callback
+  2. Add https://example.com/callback as a redirect URI
   3. Run: python3 get_refresh_token.py <CLIENT_ID> <CLIENT_SECRET>
   4. Open the URL printed in your browser and authorize
-  5. Copy the refresh token from the output
+  5. You'll be redirected to example.com -- copy the full URL from your browser
+  6. Paste it back into the terminal when prompted
 """
 
 import sys
 import base64
 import urllib.parse
-from http.server import HTTPServer, BaseHTTPRequestHandler
 import requests
 
-REDIRECT_URI = "http://localhost:8888/callback"
+REDIRECT_URI = "https://example.com/callback"
 SCOPE = "user-read-recently-played"
 
 
@@ -42,43 +42,23 @@ def main():
 
     print("\n🔗 Open this URL in your browser:\n")
     print(auth_url)
-    print("\n⏳ Waiting for callback on http://localhost:8888/callback ...\n")
+    print("\nAfter authorizing, you'll be redirected to a page that won't load.")
+    print("That's expected! Copy the FULL URL from your browser's address bar.\n")
 
-    # Start a local server to capture the callback
-    authorization_code = None
+    callback_url = input("Paste the redirect URL here: ").strip()
 
-    class CallbackHandler(BaseHTTPRequestHandler):
-        def do_GET(self):
-            nonlocal authorization_code
-            query = urllib.parse.urlparse(self.path).query
-            params = urllib.parse.parse_qs(query)
+    # Extract the authorization code from the pasted URL
+    parsed = urllib.parse.urlparse(callback_url)
+    params = urllib.parse.parse_qs(parsed.query)
 
-            if "code" in params:
-                authorization_code = params["code"][0]
-                self.send_response(200)
-                self.send_header("Content-Type", "text/html")
-                self.end_headers()
-                self.wfile.write(
-                    b"<h1>Success!</h1><p>You can close this tab and return to the terminal.</p>"
-                )
-            else:
-                self.send_response(400)
-                self.send_header("Content-Type", "text/html")
-                self.end_headers()
-                error = params.get("error", ["unknown"])[0]
-                self.wfile.write(f"<h1>Error: {error}</h1>".encode())
-
-        def log_message(self, format, *args):
-            pass  # Suppress request logs
-
-    server = HTTPServer(("localhost", 8888), CallbackHandler)
-    server.handle_request()
-
-    if not authorization_code:
-        print("❌ Failed to get authorization code")
+    if "code" not in params:
+        print("❌ No authorization code found in that URL")
+        if "error" in params:
+            print(f"   Error: {params['error'][0]}")
         sys.exit(1)
 
-    print("✅ Got authorization code, exchanging for tokens...")
+    authorization_code = params["code"][0]
+    print("\n✅ Got authorization code, exchanging for tokens...")
 
     # Exchange code for tokens
     auth_header = base64.b64encode(
