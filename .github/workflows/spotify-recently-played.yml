@@ -1,0 +1,82 @@
+name: Update README with Recently Played Spotify Track
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch recently played track and update README
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          # Get a fresh access token using the refresh token
+          TOKEN_RESPONSE=$(curl -s -X POST https://accounts.spotify.com/api/token \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d "grant_type=refresh_token&refresh_token=${SPOTIFY_REFRESH_TOKEN}&client_id=${SPOTIFY_CLIENT_ID}&client_secret=${SPOTIFY_CLIENT_SECRET}")
+
+          ACCESS_TOKEN=$(echo "$TOKEN_RESPONSE" | jq -r '.access_token')
+
+          if [ "$ACCESS_TOKEN" = "null" ] || [ -z "$ACCESS_TOKEN" ]; then
+            echo "Failed to get access token"
+            echo "$TOKEN_RESPONSE"
+            exit 1
+          fi
+
+          # Fetch recently played tracks
+          RESPONSE=$(curl -s -X GET "https://api.spotify.com/v1/me/player/recently-played?limit=1" \
+            -H "Authorization: Bearer ${ACCESS_TOKEN}")
+
+          TRACK_NAME=$(echo "$RESPONSE" | jq -r '.items[0].track.name')
+          ARTIST_NAME=$(echo "$RESPONSE" | jq -r '.items[0].track.artists[0].name')
+          TRACK_URL=$(echo "$RESPONSE" | jq -r '.items[0].track.external_urls.spotify')
+          PLAYED_AT=$(echo "$RESPONSE" | jq -r '.items[0].played_at')
+
+          if [ "$TRACK_NAME" = "null" ] || [ -z "$TRACK_NAME" ]; then
+            echo "No recently played track found"
+            echo "$RESPONSE"
+            exit 1
+          fi
+
+          echo "Last played: $TRACK_NAME by $ARTIST_NAME"
+
+          # Update README.md
+          cat > README.md << 'EOF'
+          ```
+                                    ████                                             ███
+                                   ░░███                                            ░███
+           █████ ███ █████  ██████  ░███   ██████   ██████  █████████████    ██████ ░███
+          ░░███ ░███░░███  ███░░███ ░███  ███░░███ ███░░███░░███░░███░░███  ███░░███░███
+           ░███ ░███ ░███ ░███████  ░███ ░███ ░░░ ░███ ░███ ░███ ░███ ░███ ░███████ ░███
+           ░░███████████  ░███░░░   ░███ ░███  ███░███ ░███ ░███ ░███ ░███ ░███░░░  ░░░ 
+            ░░████░████   ░░██████  █████░░██████ ░░██████  █████░███ █████░░██████  ███
+             ░░░░ ░░░░     ░░░░░░  ░░░░░  ░░░░░░   ░░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░  ░░░ 
+                                                                                        
+          ```
+
+          ## 🎵 Recently Played
+
+          EOF
+
+          echo "| | |" >> README.md
+          echo "|---|---|" >> README.md
+          echo "| **Track** | [${TRACK_NAME}](${TRACK_URL}) |" >> README.md
+          echo "| **Artist** | ${ARTIST_NAME} |" >> README.md
+          echo "| **Played At** | ${PLAYED_AT} |" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "🎵 Update recently played track"
+          git push
