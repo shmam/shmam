@@ -10,10 +10,11 @@
                                                                               
 ```
 
-## 🎵 Recently Played
+## what I'm listening to:
 
-| | |
-|---|---|
-| **Track** | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) |
-| **Artist** | Maggie Rogers |
-| **Played At** | 2026-06-23T22:01:19.270Z |
+```text
+Track: It Was Coming All Along
+Artist: Maggie Rogers
+URL: https://open.spotify.com/track/2SSdjwuUQlkO0s6Kb4II8x
+Played At: 2026-06-23T22:13:25.970Z
+```
