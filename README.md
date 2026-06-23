@@ -9,3 +9,11 @@
    ░░░░ ░░░░     ░░░░░░  ░░░░░  ░░░░░░   ░░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░  ░░░ 
                                                                               
 ```
+
+## 🎵 Recently Played
+
+| | |
+|---|---|
+| **Track** | [Want Want](https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah) |
+| **Artist** | Maggie Rogers |
+| **Played At** | 2026-06-23T22:01:19.270Z |
