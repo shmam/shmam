@@ -14,8 +14,8 @@
 _This should update every 30 minutes with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/blob/main/.github/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: The Kill
-Artist: Maggie Rogers
-URL: https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ
-Played At: 2026-06-23T22:21:30.202Z
+Track: Mona Lisas And Mad Hatters
+Artist: Elton John
+URL: https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9
+Played At: 2026-06-23T23:29:25.952Z
 ```
