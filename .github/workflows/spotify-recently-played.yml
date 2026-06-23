@@ -71,15 +71,16 @@ jobs:
                                                                                         
           ```
 
-          ## 🎵 Recently Played
+          ## what I'm listening to:
 
           EOF
 
-          echo "| | |" >> README.md
-          echo "|---|---|" >> README.md
-          echo "| **Track** | [${TRACK_NAME}](${TRACK_URL}) |" >> README.md
-          echo "| **Artist** | ${ARTIST_NAME} |" >> README.md
-          echo "| **Played At** | ${PLAYED_AT} |" >> README.md
+            echo '```text' >> README.md
+            echo "Track: ${TRACK_NAME}" >> README.md
+            echo "Artist: ${ARTIST_NAME}" >> README.md
+            echo "URL: ${TRACK_URL}" >> README.md
+            echo "Played At: ${PLAYED_AT}" >> README.md
+            echo '```' >> README.md
 
       - name: Commit and push changes
         run: |
