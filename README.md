@@ -11,7 +11,7 @@
 ```
 
 ## what I'm listening to:
-__This should update every 5 minutes with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/blob/main/.github/workflows/spotify-recently-played.yml) is broken.__
+_This should update every 30 minutes with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/blob/main/.github/workflows/spotify-recently-played.yml) is broken._
 
 ```text
 Track: The Kill
