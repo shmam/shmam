@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Mona Lisas And Mad Hatters
-Artist: Elton John
-URL: https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9
-Played At: 2026-06-23T23:29:25.952Z
+Track: Debris
+Artist: Faces
+URL: https://open.spotify.com/track/2gFXQQ7dDY4lquHpUNeDTM
+Played At: 2026-06-24T17:12:50.904Z
 ```
