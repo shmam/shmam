@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Nothing Can Change This Love - Live at the Harlem Square Club, Miami, FL - January 1963
-Artist: Sam Cooke
-URL: https://open.spotify.com/track/6Qbjcq0UvszzDmZE6aVXyu
-Played At: 2026-06-25T19:53:15.585Z
+Track: stupid song
+Artist: Olivia Rodrigo
+URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
+Played At: 2026-06-25T22:15:33.962Z
 ```
