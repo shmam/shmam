@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: ingydar
-Artist: Adrianne Lenker
-URL: https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc
-Played At: 2026-06-25T05:08:18.536Z
+Track: The End
+Artist: Star Moles
+URL: https://open.spotify.com/track/3NwcMgjjSZWFXOTD9xNrUu
+Played At: 2026-06-25T18:19:25.878Z
 ```
