@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: The End
-Artist: Star Moles
-URL: https://open.spotify.com/track/3NwcMgjjSZWFXOTD9xNrUu
-Played At: 2026-06-25T18:19:25.878Z
+Track: Nothing Can Change This Love - Live at the Harlem Square Club, Miami, FL - January 1963
+Artist: Sam Cooke
+URL: https://open.spotify.com/track/6Qbjcq0UvszzDmZE6aVXyu
+Played At: 2026-06-25T19:53:15.585Z
 ```
