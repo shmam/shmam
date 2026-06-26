@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: stupid song
-Artist: Olivia Rodrigo
-URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
-Played At: 2026-06-25T22:15:33.962Z
+Track: Lost Boys
+Artist: Phoebe Bridgers
+URL: https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI
+Played At: 2026-06-26T00:16:34Z
 ```
