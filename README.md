@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Midnight in Harlem
-Artist: Tedeschi Trucks Band
-URL: https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd
-Played At: 2026-06-26T04:06:12.152Z
+Track: stupid song
+Artist: Olivia Rodrigo
+URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
+Played At: 2026-06-26T15:12:29.804Z
 ```
