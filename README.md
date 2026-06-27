@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: stupid song
-Artist: Olivia Rodrigo
-URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
-Played At: 2026-06-26T15:12:29.804Z
+Track: The Adults Are Talking
+Artist: The Strokes
+URL: https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW
+Played At: 2026-06-27T00:18:54.492Z
 ```
