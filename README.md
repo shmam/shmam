@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Change
+Track: Time Escaping
 Artist: Big Thief
-URL: https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ
-Played At: 2026-06-30T01:35:52.116Z
+URL: https://open.spotify.com/track/32k3OLmeIWe93KY0QzMmZX
+Played At: 2026-06-30T06:59:00.161Z
 ```
