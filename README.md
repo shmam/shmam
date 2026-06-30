@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Haterz (feat. Lil Boosie)
-Artist: Keith Frank
-URL: https://open.spotify.com/track/28Wqhzvb0cNm1BaMStzKXw
-Played At: 2026-06-30T19:14:53.788Z
+Track: She's So Lovely
+Artist: J. Paul Jr And The Zydeco Nubreeds
+URL: https://open.spotify.com/track/2eS9gpZ5Yv4rmPt25MwjiG
+Played At: 2026-06-30T21:03:26.725Z
 ```
