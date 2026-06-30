@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: New Feeling
-Artist: Talking Heads
-URL: https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R
-Played At: 2026-06-30T16:56:53.611Z
+Track: Haterz (feat. Lil Boosie)
+Artist: Keith Frank
+URL: https://open.spotify.com/track/28Wqhzvb0cNm1BaMStzKXw
+Played At: 2026-06-30T19:14:53.788Z
 ```
