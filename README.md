@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Drip Too Hard (Lil Baby & Gunna)
-Artist: Lil Baby
-URL: https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE
-Played At: 2026-06-27T21:08:38.265Z
+Track: Change
+Artist: Big Thief
+URL: https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ
+Played At: 2026-06-30T01:35:52.116Z
 ```
