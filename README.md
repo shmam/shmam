@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: She's So Lovely
-Artist: J. Paul Jr And The Zydeco Nubreeds
-URL: https://open.spotify.com/track/2eS9gpZ5Yv4rmPt25MwjiG
-Played At: 2026-06-30T21:03:26.725Z
+Track: Dead End
+Artist: Snail Mail
+URL: https://open.spotify.com/track/1dq6THBhiYAhLgbGxYVr3h
+Played At: 2026-06-30T22:44:23.913Z
 ```
