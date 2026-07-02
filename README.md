@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: stupid song
-Artist: Olivia Rodrigo
-URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
-Played At: 2026-07-02T00:04:57.032Z
+Track: Let's Stay Together
+Artist: Al Green
+URL: https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y
+Played At: 2026-07-02T02:52:57.155Z
 ```
