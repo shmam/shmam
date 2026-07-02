@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Haterz (feat. Lil Boosie)
-Artist: Keith Frank
-URL: https://open.spotify.com/track/28Wqhzvb0cNm1BaMStzKXw
-Played At: 2026-07-01T03:36:45.763Z
+Track: stupid song
+Artist: Olivia Rodrigo
+URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
+Played At: 2026-07-02T00:04:57.032Z
 ```
