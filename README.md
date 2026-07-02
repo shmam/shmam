@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Let's Stay Together
-Artist: Al Green
-URL: https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y
-Played At: 2026-07-02T02:52:57.155Z
+Track: Little Green Apples
+Artist: Cleveland Francis
+URL: https://open.spotify.com/track/4AGapwTVJn5t8PEMJsWMRu
+Played At: 2026-07-02T15:23:27.638Z
 ```
