@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Emily’s Song
-Artist: Daniel Caesar
-URL: https://open.spotify.com/track/1tWZGEvn2MIs0knr5XMNWE
-Played At: 2026-07-03T00:11:26.149Z
+Track: Put Your Records On
+Artist: Corinne Bailey Rae
+URL: https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx
+Played At: 2026-07-03T20:41:08.792Z
 ```
