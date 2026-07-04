@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Brandy (You're a Fine Girl)
-Artist: Looking Glass
-URL: https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA
-Played At: 2026-07-04T20:01:27.970Z
+Track: Ooh La La
+Artist: Faces
+URL: https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4
+Played At: 2026-07-04T21:46:40.766Z
 ```
