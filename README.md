@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Carolina in My Mind
-Artist: James Taylor
-URL: https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk
-Played At: 2026-07-05T19:41:05.557Z
+Track: Bad, Bad Leroy Brown
+Artist: Jim Croce
+URL: https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO
+Played At: 2026-07-05T21:09:48.094Z
 ```
