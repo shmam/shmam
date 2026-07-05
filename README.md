@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Can't You See
-Artist: The Marshall Tucker Band
-URL: https://open.spotify.com/track/4egy2d8QiyXn5tzVQiptTb
-Played At: 2026-07-05T19:27:37.068Z
+Track: Carolina in My Mind
+Artist: James Taylor
+URL: https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk
+Played At: 2026-07-05T19:41:05.557Z
 ```
