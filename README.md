@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: GOOD CREDIT (with Kendrick Lamar)
-Artist: Playboi Carti
-URL: https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok
-Played At: 2026-07-05T02:13:36.475Z
+Track: Can't You See
+Artist: The Marshall Tucker Band
+URL: https://open.spotify.com/track/4egy2d8QiyXn5tzVQiptTb
+Played At: 2026-07-05T19:27:37.068Z
 ```
