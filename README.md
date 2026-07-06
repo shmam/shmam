@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Father And Son
+Track: The Wind - Remastered 2021
 Artist: Yusuf / Cat Stevens
-URL: https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA
-Played At: 2026-07-06T20:53:32.617Z
+URL: https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP
+Played At: 2026-07-06T21:12:15.244Z
 ```
