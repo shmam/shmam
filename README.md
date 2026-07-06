@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Great Expectation
-Artist: SIENNA SPIRO
-URL: https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe
-Played At: 2026-07-06T16:34:40.203Z
+Track: Father And Son
+Artist: Yusuf / Cat Stevens
+URL: https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA
+Played At: 2026-07-06T20:53:32.617Z
 ```
