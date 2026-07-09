@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Hard Headed Woman
-Artist: Yusuf / Cat Stevens
-URL: https://open.spotify.com/track/3AlUM4CsiOwVl5Gwxfgwcw
-Played At: 2026-07-08T21:56:23.156Z
+Track: Root of all Evil
+Artist: Daniel Caesar
+URL: https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd
+Played At: 2026-07-08T22:37:34.407Z
 ```
