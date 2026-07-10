@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Into The Ocean
-Artist: Blue October
-URL: https://open.spotify.com/track/2SiqlgLMfKQbczSMRp8drY
-Played At: 2026-07-09T03:16:35.417Z
+Track: Someday, Somewhere
+Artist: Jungle
+URL: https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN
+Played At: 2026-07-10T17:56:18.765Z
 ```
