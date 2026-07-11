@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: A Mi Manera
+Track: Allegria
 Artist: Gipsy Kings
-URL: https://open.spotify.com/track/0uHtKy5hvyHSnQIgUvGSSG
-Played At: 2026-07-10T21:56:28.014Z
+URL: https://open.spotify.com/track/4TPAEAfhLcGvOK6iNzgOZm
+Played At: 2026-07-11T00:03:39.930Z
 ```
