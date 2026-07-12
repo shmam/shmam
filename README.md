@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: stabilise
-Artist: Nilüfer Yanya
-URL: https://open.spotify.com/track/5UaQwesv5l438o4hp66JdR
-Played At: 2026-07-12T17:01:35.761Z
+Track: LEVII'S JEANS
+Artist: Beyoncé
+URL: https://open.spotify.com/track/2UDARQiksl207HcSduDpov
+Played At: 2026-07-12T19:58:21.881Z
 ```
