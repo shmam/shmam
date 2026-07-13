@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Live For You
-Artist: Thee Sacred Souls
-URL: https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4
-Played At: 2026-07-12T22:28:21.061Z
+Track: AP (Music from the film Boogie) (Original Soundtrack)
+Artist: Pop Smoke
+URL: https://open.spotify.com/track/0g7zmpC462tfLjVhdzLGcX
+Played At: 2026-07-13T03:06:21.176Z
 ```
