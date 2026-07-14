@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Everybody's Talkin' - From "Midnight Cowboy"
-Artist: Harry Nilsson
-URL: https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2
-Played At: 2026-07-13T21:35:11.964Z
+Track: It Ain't Over 'Til It's Over
+Artist: Lenny Kravitz
+URL: https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR
+Played At: 2026-07-14T02:08:37.646Z
 ```
