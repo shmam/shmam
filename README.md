@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: It Ain't Over 'Til It's Over
-Artist: Lenny Kravitz
-URL: https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR
-Played At: 2026-07-14T02:08:37.646Z
+Track: Shabang
+Artist: Drake
+URL: https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec
+Played At: 2026-07-14T18:01:52.765Z
 ```
