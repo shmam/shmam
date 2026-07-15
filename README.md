@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Kryptonite
-Artist: Killer Mike
-URL: https://open.spotify.com/track/4i2HYTGM7yHty0qVhD3lqD
-Played At: 2026-07-15T02:11:51.844Z
+Track: Flex Up (feat. Future & Playboi Carti)
+Artist: Lil Yachty
+URL: https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr
+Played At: 2026-07-15T18:42:47.092Z
 ```
