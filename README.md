@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Flex Up (feat. Future & Playboi Carti)
-Artist: Lil Yachty
-URL: https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr
-Played At: 2026-07-15T18:42:47.092Z
+Track: Are You That Somebody?
+Artist: Aaliyah
+URL: https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4
+Played At: 2026-07-15T23:52:27.035Z
 ```
