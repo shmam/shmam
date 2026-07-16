@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Sweet Boy
-Artist: Malcolm Todd
-URL: https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa
-Played At: 2026-07-16T19:04:22.818Z
+Track: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude
+Artist: Johann Sebastian Bach
+URL: https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta
+Played At: 2026-07-16T21:24:38.683Z
 ```
