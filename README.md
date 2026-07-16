@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: expectations
-Artist: Olivia Rodrigo
-URL: https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi
-Played At: 2026-07-16T05:56:33.128Z
+Track: Sweet Boy
+Artist: Malcolm Todd
+URL: https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa
+Played At: 2026-07-16T16:09:11.128Z
 ```
