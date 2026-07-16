@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Are You That Somebody?
-Artist: Aaliyah
-URL: https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4
-Played At: 2026-07-15T23:52:27.035Z
+Track: expectations
+Artist: Olivia Rodrigo
+URL: https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi
+Played At: 2026-07-16T05:56:33.128Z
 ```
