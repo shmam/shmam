@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: 3005
-Artist: Childish Gambino
-URL: https://open.spotify.com/track/2X6b7zLdIxCejd6GqVcQ9M
-Played At: 2026-07-16T23:22:34.614Z
+Track: Earrings
+Artist: Malcolm Todd
+URL: https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ
+Played At: 2026-07-17T06:12:58.999Z
 ```
