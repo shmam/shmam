@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: 50 Ways to Leave Your Lover
-Artist: Paul Simon
-URL: https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl
-Played At: 2026-07-17T21:57:56.866Z
+Track: This Must Be the Place (Naive Melody) - 2005 Remaster
+Artist: Talking Heads
+URL: https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or
+Played At: 2026-07-17T22:13:05.868Z
 ```
