@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: He Wasn't Man Enough
-Artist: Toni Braxton
-URL: https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh
-Played At: 2026-07-18T19:14:01.236Z
+Track: Rich Girl
+Artist: Daryl Hall & John Oates
+URL: https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX
+Played At: 2026-07-18T20:58:08.567Z
 ```
