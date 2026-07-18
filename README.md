@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Don't Know Why
-Artist: Norah Jones
-URL: https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr
-Played At: 2026-07-18T21:14:48.477Z
+Track: The Spins
+Artist: Mac Miller
+URL: https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N
+Played At: 2026-07-18T23:32:07.654Z
 ```
