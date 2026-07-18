@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: adore u
+Track: Victory Lap
 Artist: Fred again..
-URL: https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi
-Played At: 2026-07-17T23:56:27.615Z
+URL: https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP
+Played At: 2026-07-18T01:22:05.834Z
 ```
