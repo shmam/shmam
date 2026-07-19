@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Doo Wop (That Thing)
-Artist: Ms. Lauryn Hill
-URL: https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg
-Played At: 2026-07-19T00:38:49.955Z
+Track: Lay It on Me
+Artist: Vance Joy
+URL: https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v
+Played At: 2026-07-19T09:06:15.243Z
 ```
