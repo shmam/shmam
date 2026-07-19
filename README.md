@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: I Remember Everything (feat. Kacey Musgraves)
-Artist: Zach Bryan
-URL: https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG
-Played At: 2026-07-19T15:01:38.403Z
+Track: Like Gold
+Artist: Vance Joy
+URL: https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd
+Played At: 2026-07-19T15:05:29.645Z
 ```
