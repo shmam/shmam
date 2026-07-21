@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Lou's Tune
-Artist: DARGZ
-URL: https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T
-Played At: 2026-07-20T00:31:15.173Z
+Track: Nothing Takes the Place of You
+Artist: Toussaint McCall
+URL: https://open.spotify.com/track/1uiMXPkNhcpXSx7RlGFbQB
+Played At: 2026-07-21T17:36:24.253Z
 ```
