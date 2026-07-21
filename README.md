@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: I Saw Your Face
-Artist: Malcolm Todd
-URL: https://open.spotify.com/track/3B3eD9Mo22YTke9AuOirzn
-Played At: 2026-07-21T22:03:07.068Z
+Track: Death Wish
+Artist: Gracie Abrams
+URL: https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob
+Played At: 2026-07-21T23:24:11.609Z
 ```
