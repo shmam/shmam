@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Trailer Trash
-Artist: Modest Mouse
-URL: https://open.spotify.com/track/3GcRZ1Q9Q6NIeDNw3MVAWS
-Played At: 2026-07-21T18:59:06.224Z
+Track: I Saw Your Face
+Artist: Malcolm Todd
+URL: https://open.spotify.com/track/3B3eD9Mo22YTke9AuOirzn
+Played At: 2026-07-21T22:03:07.068Z
 ```
