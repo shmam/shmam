@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Death Wish
-Artist: Gracie Abrams
-URL: https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob
-Played At: 2026-07-21T23:24:11.609Z
+Track: Dale Earnhardt
+Artist: Big Baby Scumbag
+URL: https://open.spotify.com/track/73CgZLPpi8cNVX0dC8DcyQ
+Played At: 2026-07-22T02:21:58.986Z
 ```
