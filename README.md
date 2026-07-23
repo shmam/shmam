@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Burfict!
-Artist: JPEGMAFIA
-URL: https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8
-Played At: 2026-07-22T16:23:46.660Z
+Track: Good Reason
+Artist: Gracie Abrams
+URL: https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ
+Played At: 2026-07-23T00:01:18.829Z
 ```
