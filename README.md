@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Teardrops
-Artist: NEIL FRANCES
-URL: https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm
-Played At: 2026-07-23T02:47:38.604Z
+Track: Casio
+Artist: Jungle
+URL: https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua
+Played At: 2026-07-23T16:54:40.254Z
 ```
