@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Overdue (with Travis Scott)
-Artist: Metro Boomin
-URL: https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM
-Played At: 2026-07-23T23:44:51.661Z
+Track: stupid song
+Artist: Olivia Rodrigo
+URL: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
+Played At: 2026-07-24T01:02:45.524Z
 ```
