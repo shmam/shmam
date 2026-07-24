@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Casio
-Artist: Jungle
-URL: https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua
-Played At: 2026-07-23T16:54:40.254Z
+Track: Overdue (with Travis Scott)
+Artist: Metro Boomin
+URL: https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM
+Played At: 2026-07-23T23:44:51.661Z
 ```
