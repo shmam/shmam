@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Have A Baby (With Me)
-Artist: Daniel Caesar
-URL: https://open.spotify.com/track/7sXOV8uUpxPtyTZoV2iqYa
-Played At: 2026-07-24T07:36:37.106Z
+Track: Punch!
+Artist: Sophia Bacino
+URL: https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg
+Played At: 2026-07-24T17:56:33.032Z
 ```
