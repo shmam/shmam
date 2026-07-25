@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Punch!
-Artist: Sophia Bacino
-URL: https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg
-Played At: 2026-07-24T19:15:06.870Z
+Track: American Dreaming
+Artist: Sierra Ferrell
+URL: https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq
+Played At: 2026-07-25T22:14:59.353Z
 ```
