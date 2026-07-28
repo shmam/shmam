@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Time Out Of Mind
+Track: My Rival
 Artist: Steely Dan
-URL: https://open.spotify.com/track/6qfN0cRXRnOCa7U3ITrRzL
-Played At: 2026-07-28T06:27:39.246Z
+URL: https://open.spotify.com/track/7uRi7w5NJN2X57xxHJdLZE
+Played At: 2026-07-28T07:00:40.458Z
 ```
