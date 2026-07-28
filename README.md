@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Hey Nineteen
+Track: Gaucho
 Artist: Steely Dan
-URL: https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5
-Played At: 2026-07-27T22:49:29.961Z
+URL: https://open.spotify.com/track/6Mw3PjUwEDt2WGF5GtvkMN
+Played At: 2026-07-28T02:22:57.322Z
 ```
