@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Till There Was You - Remastered 2009
-Artist: The Beatles
-URL: https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm
-Played At: 2026-08-09T04:52:26.675Z
+Track: Take It to the Limit - 2013 Remaster
+Artist: Eagles
+URL: https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA
+Played At: 2026-08-09T17:29:20.436Z
 ```
