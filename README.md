@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Wave
-Artist: Ahmad Jamal Trio
-URL: https://open.spotify.com/track/5XThWom9GPyAzKdZMN0Bxh
-Played At: 2026-08-14T02:37:15.176Z
+Track: On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)
+Artist: Miles Davis
+URL: https://open.spotify.com/track/0tUq1zaYNoV6ZiYRU2bjqf
+Played At: 2026-08-14T05:42:16.105Z
 ```
