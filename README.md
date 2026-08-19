@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Brook Green Suite: II. Air
-Artist: Gustav Holst
-URL: https://open.spotify.com/track/3Fh5u7x6H4nwOELGDKTkOk
-Played At: 2026-08-18T23:22:34.355Z
+Track: Colas Breugnon, Op. 24: Overture
+Artist: Dmitry Kabalevsky
+URL: https://open.spotify.com/track/2awqN7KY0q35Gkog1i8PIn
+Played At: 2026-08-19T01:37:16.966Z
 ```
