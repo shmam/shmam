@@ -17,5 +17,5 @@ _This should update roughly every hour with the most recently played track on Sp
 Track: Bobby
 Artist: Phoebe Bridgers
 URL: https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu
-Played At: 2026-09-01T00:35:02.677Z
+Played At: 2026-09-01T06:33:16.584Z
 ```
