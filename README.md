@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Else
-Artist: Built To Spill
-URL: https://open.spotify.com/track/1SqIUmKbeRyHwgp8BOBIRr
-Played At: 2026-09-04T20:53:48.821Z
+Track: Adam's Apple - Remastered 2000 / Rudy Van Gelder Edition
+Artist: Wayne Shorter
+URL: https://open.spotify.com/track/0QRcIGOrLvLNhIB9SLXW9F
+Played At: 2026-09-05T00:24:47.306Z
 ```
