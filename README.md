@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: The Sweetest Taboo
-Artist: Sade
-URL: https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf
-Played At: 2026-09-07T03:20:40.839Z
+Track: Everywhere - 2017 Remaster
+Artist: Fleetwood Mac
+URL: https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq
+Played At: 2026-09-08T07:09:27.385Z
 ```
