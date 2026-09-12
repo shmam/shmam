@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: One Particular Harbour
+Track: Migration
 Artist: Jimmy Buffett
-URL: https://open.spotify.com/track/44UqG68nsYIsJGQQXybDN8
-Played At: 2026-09-10T23:35:05.868Z
+URL: https://open.spotify.com/track/6TOQY40mnZWzhQhpGYI4WT
+Played At: 2026-09-12T01:20:41.818Z
 ```
