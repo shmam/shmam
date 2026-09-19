@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Melodie
+Track: Yellow and Green
 Artist: Slow Pulp
-URL: https://open.spotify.com/track/6LbqsBfz72n3LSM6Lxas1B
-Played At: 2026-09-19T06:45:40.588Z
+URL: https://open.spotify.com/track/2gQfzD8hAtfcUQgFhQdihN
+Played At: 2026-09-19T17:04:22.165Z
 ```
