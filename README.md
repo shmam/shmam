@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Country Road - 2019 Remaster
-Artist: James Taylor
-URL: https://open.spotify.com/track/2OBaVeRFXblWxoZHC4sryf
-Played At: 2026-09-25T22:28:00.204Z
+Track: Melodie
+Artist: Slow Pulp
+URL: https://open.spotify.com/track/6LbqsBfz72n3LSM6Lxas1B
+Played At: 2026-09-26T16:57:05.872Z
 ```
