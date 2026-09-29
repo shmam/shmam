@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Yellow and Green
-Artist: Slow Pulp
-URL: https://open.spotify.com/track/2gQfzD8hAtfcUQgFhQdihN
-Played At: 2026-09-27T06:48:43.504Z
+Track: Peace Train - Remastered 2021
+Artist: Yusuf / Cat Stevens
+URL: https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ
+Played At: 2026-09-29T00:45:25.328Z
 ```
