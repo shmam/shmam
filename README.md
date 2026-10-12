@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Anything He Was
-Artist: Tiny Habits
-URL: https://open.spotify.com/track/5jEf7MDPf8Bo4blM8Otusr
-Played At: 2026-10-11T02:42:37.689Z
+Track: I Will Eat My Heart in the Morning Light
+Artist: This Is Lorelei
+URL: https://open.spotify.com/track/7ia5upp9rLB4rQEyhAWknc
+Played At: 2026-10-11T13:40:10.483Z
 ```
