@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Entertainer
-Artist: Slow Pulp
-URL: https://open.spotify.com/track/3BUXeHp1WkxeKSFJScFrdy
-Played At: 2026-10-16T15:06:32.458Z
+Track: Fake Plastic Trees
+Artist: Radiohead
+URL: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
+Played At: 2026-10-17T13:35:57.674Z
 ```
