@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Ballad of Big Nothing
-Artist: Elliott Smith
-URL: https://open.spotify.com/track/6L9uay2MM8qACwI1yQHnw2
-Played At: 2026-10-22T18:25:17.569Z
+Track: No One Lasts Forever featuring David Cronenberg
+Artist: Charli xcx
+URL: https://open.spotify.com/track/1BPpJdD11gsDQno045HBz0
+Played At: 2026-10-22T21:55:54.745Z
 ```
