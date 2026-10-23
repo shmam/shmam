@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Anything He Was
-Artist: Tiny Habits
-URL: https://open.spotify.com/track/5jEf7MDPf8Bo4blM8Otusr
-Played At: 2026-10-23T18:11:57.364Z
+Track: I Pity the Poor Immigrant - Live at Tarrant County Convention Center Arena, Fort Worth, TX - May 16, 1976
+Artist: Bob Dylan
+URL: https://open.spotify.com/track/44TTJsUQZZpeHtJmTX51OP
+Played At: 2026-10-23T18:25:24.496Z
 ```
