@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Georgia on My Mind - Original Master Recording
-Artist: Ray Charles
-URL: https://open.spotify.com/track/1L2AbN6QPkNMG4sWZH7fRq
-Played At: 2026-10-23T05:54:02.072Z
+Track: Anything He Was
+Artist: Tiny Habits
+URL: https://open.spotify.com/track/5jEf7MDPf8Bo4blM8Otusr
+Played At: 2026-10-23T18:11:57.364Z
 ```
