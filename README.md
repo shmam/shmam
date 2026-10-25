@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Sister Golden Hair
-Artist: America
-URL: https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK
-Played At: 2026-10-24T01:09:19.288Z
+Track: Ab's Song
+Artist: The Marshall Tucker Band
+URL: https://open.spotify.com/track/2VUnGwNL0O986cVXt9DYhR
+Played At: 2026-10-25T00:57:23.887Z
 ```
