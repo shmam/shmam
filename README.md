@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: DA FUCC (feat. Ro$ama)
-Artist: BigXthaPlug
-URL: https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI
-Played At: 2026-10-31T00:07:10.208Z
+Track: When the Morning Comes
+Artist: Daryl Hall & John Oates
+URL: https://open.spotify.com/track/75XQk1ewCddGnDuFMYg2iL
+Played At: 2026-10-31T01:43:14.837Z
 ```
