@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Help Me
-Artist: Joni Mitchell
-URL: https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd
-Played At: 2026-11-05T21:52:50.765Z
+Track: We're Thinking the Same Thing
+Artist: Cameron Winter
+URL: https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP
+Played At: 2026-11-06T06:00:44.475Z
 ```
