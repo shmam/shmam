@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: Double Infinity
-Artist: Big Thief
-URL: https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z
-Played At: 2026-11-05T01:16:54.632Z
+Track: Help Me
+Artist: Joni Mitchell
+URL: https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd
+Played At: 2026-11-05T21:52:50.765Z
 ```
