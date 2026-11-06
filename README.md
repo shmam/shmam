@@ -14,8 +14,8 @@
 _This should update roughly every hour with the most recently played track on Spotify unless the [workflow](https://github.com/shmam/shmam/actions/workflows/spotify-recently-played.yml) is broken._
 
 ```text
-Track: We're Thinking the Same Thing
+Track: Cancer of the Skull - Live at Carnegie Hall
 Artist: Cameron Winter
-URL: https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP
-Played At: 2026-11-06T06:00:44.475Z
+URL: https://open.spotify.com/track/56e1OYZwN7ejHQZxtzL5vz
+Played At: 2026-11-06T06:22:32.976Z
 ```
